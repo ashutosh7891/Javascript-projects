@@ -2,11 +2,9 @@
 
 ## project link [click here](https://stackblitz.com/edit/dom-project-chaiaurcode-7rt7up?file=index.html)
 
-### note : should have account on stackblitz
-
 # Solution Code JS
 
-## Project 1
+## Project ToDoList
 
 ```javacript
 const buttons = document.querySelectorAll('.button');
